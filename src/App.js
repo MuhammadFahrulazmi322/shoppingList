@@ -154,7 +154,7 @@ function App() {
           :
           (
             <div>
-              <p>Your List Still Empty</p>
+              <p>Your List Still Empty. Add Some Tasks Now!</p>
             </div>
           )
         }
