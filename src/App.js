@@ -154,7 +154,7 @@ function App() {
           :
           (
             <div>
-              <p>Wah Kosong Nih</p>
+              <p>Your List Still Empty</p>
             </div>
           )
         }
